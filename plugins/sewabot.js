@@ -25,8 +25,8 @@ let handler = async m => m.reply(`
 ❒ *Bisa Memasukkan Bot Ke dalam Grup*
 
 ◪ *Jika Minat Hubungi owner*
-◪ *Syarat gratis invite bot,Follow ig Owner*
-_https://www.instagram.com/_aryagilang/_
+◪ *Syarat gratis invite bot,Chat WA Owner*
+_https://wa.me/6289614252416/_
 
 Ingin Jadi Bot Seperti ini?
 ketik #jadibot
